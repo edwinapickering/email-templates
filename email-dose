@@ -444,10 +444,8 @@ table{
                       <td style="text-align: left; padding-left: 10px;">
                       	<h3 class="heading">Useful Links</h3>
                       	<ul>
-					                <li><a href="#">Breakfast</a></li>
-					                <li><a href="#">Lunch</a></li>
-					                <li><a href="#">Dinner</a></li>
-					                <li><a href="#">Dessert</a></li>
+					                <li><webversion>View web version</webversion></li>
+					                <li><unsubscribe>Unsubscribe here</unsubscribe></li>
 					              </ul>
                       </td>
                     </tr>
